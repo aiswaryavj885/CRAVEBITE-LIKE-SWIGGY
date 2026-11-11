@@ -1,0 +1,6 @@
+{
+  "name": "CraveBite - MERN Food Delivery",
+  "description": "Full-stack MERN food delivery platform featuring real-time restaurant browsing, customizable menus, cart & promo discounts, and live interactive order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
